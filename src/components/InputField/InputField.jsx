@@ -5,6 +5,6 @@ const InputField = ({ num }) => {
   const handleChangeInput = (event) => {
     setState(event.target.value.replace(/[^0-9]/g, ""));
   };
-  return <input type="text" step="1" value={state} onChange={handleChangeInput} placeholder={num} />;
+  return <input type="text" step="1" value={state} onChange={handleChangeInput} />;
 };
 export default InputField;
