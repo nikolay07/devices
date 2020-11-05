@@ -70,3 +70,14 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### In this project was used the following technologies:
+
+- [HTML5]
+- [CSS3]
+- [SASS]
+- [JS-ES6]
+- [ReactJS]
+- [Prop types]
+
+
